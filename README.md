@@ -1,34 +1,22 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This program was created to display the words "Hello World" on a computer screen.
 
+The purpose of creating this simple program in Visual Studios was to show how Visual Studios works with a programming language and Github.
 
-
-{Provide a description of your software}
-
-This software displays the words "Hello World."
-
-{Describe your purpose for creating this software.}
-
-The purpose of this software was to ensure that Visual Studios was able to connect with and use Github. 
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-Below is a link demonstrating how the software works.
+Below is a video link demonstrating how the hello world program works.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-This software was developed with the use of Visual Studios and Git. 
-{Describe the tools that you used to develop the software}
+This software was developed with the use of Visual Studios and Git, and after it was created, it was uploaded to Github. 
 
-This example used Python, but other programming languages can be used.
-{Describe the programming language that you used}
+This example used Python version 3.9.5 64 bit, but many other programming languages can be used to create a hello world program.
 
 # Useful Websites
 
-
 * [W3 Schools](https://www.w3schools.com/python/default.asp)
 * [Geeks for Geeks](https://www.geeksforgeeks.org/python-programming-language/)
+* [Visual Studios and Github](https://code.visualstudio.com/docs/editor/github)
   
