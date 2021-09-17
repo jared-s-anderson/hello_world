@@ -6,7 +6,7 @@ The purpose of creating this simple program in Visual Studios was to show how Vi
 
 Below is a video link demonstrating how the hello world program works.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/imamC8AHAPU)
 
 # Development Environment
 
